@@ -35,7 +35,8 @@ Mat imgThresholded;
 
 int main(int argc, char** argv)
 {
-	VideoCapture cap("C:\\sceneOld.mp4");
+	// @TODO: REPLACE THE NEXT LINE WITH YOUR VIDEO URL
+	VideoCapture cap("YOUR_FILE_NAME");
 
 	if (!cap.isOpened())
 	{
