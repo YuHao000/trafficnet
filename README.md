@@ -27,4 +27,9 @@ cmake ..
 make
 ```
 
-5. Congrats! You have successfully built TrafficNet! You can now start classifying traffic signs!
+5. Run.
+```
+./trafficnet [PARAMS]
+```
+
+6. Congrats! You have successfully built TrafficNet! You can now start classifying traffic signs!
