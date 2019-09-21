@@ -29,7 +29,7 @@ make
 
 5. Run.
 ```
-./trafficnet [PARAMS]
+./trafficnet
 ```
 
 6. Congrats! You have successfully built TrafficNet! You can now start classifying traffic signs!
